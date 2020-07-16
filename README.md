@@ -2,7 +2,7 @@
   Hello there, I'm Rasyid
 </h1>
 
-[![Twitter](https://img.shields.io/twitter/follow/rasyidf_?color=%23169ef2&style=for-the-badge)](https://twitter.com/MattGleich)
+[![Twitter](https://img.shields.io/twitter/follow/rasyidf_?color=%23169ef2&style=for-the-badge)](https://twitter.com/rasyidf_)
  
  
 - 🔭 I’m currently working on Denta, UFSJ, UWriter
