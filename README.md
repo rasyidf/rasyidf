@@ -1,42 +1,26 @@
 <h1 style="text-align: center;">
-  Hello there, I'm Rasyid 🐋
+  Hi, I'm Rasyid 🐋, a whalesome guy
 </h1>
 
-> Now, I'm focusing on my work repositories (gitlab). So, basicaly i'm not doing so much here.
+> Currently, I'm focusing on internal repositories (gitlab). So, basicaly i'm not doing so much here.
 
 [![Twitter](https://img.shields.io/twitter/follow/rasyidf_?color=%23169ef2&style=for-the-badge)](https://twitter.com/rasyidf_)
-
- 
-## About Me
- 🔭 currently working on Denta, UFSJ, UWriter, Tiera
- 
-## My STACKS
-### FRONTEND
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-
-### BACKEND
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-## DATABASE
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Languages
-![CS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-  
+[![Website](https://img.shields.io/badge/rasyid-dev-blue?style=for-the-badge)](https://rasyid.dev)
 ## Who Am I?
 
-- Professional Frontend & Backend Developer
+- Mid Senior Frontend & Backend Developer
+- C#/.NET Developer Enthusiast 
 - Computer Vision Researcher 
-- Fannatic C#/.NET Programmer 
+ 
+ 
+## My STACKS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasyidf&show_icons=true&count_private=true)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Golang](https://img.shields.io/badge/Golang-20232A?style=for-the-badge&logo=go&logoColor=61DAFB) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
 
+
+
+### Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidf&layout=compact)
